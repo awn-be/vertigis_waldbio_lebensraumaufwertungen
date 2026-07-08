@@ -1,0 +1,2 @@
+# vertigis_waldbio_lebensraumaufwertungen
+Issues- und Weiterentwicklung für den Prozess Lebensraumaufwertungen
